@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SM04B-SRSS-TB(LF)(SN)")(type KiCad)(uri "${KIPRJMOD}/kicad-library/SM04B-SRSS-TB(LF)(SN)")(options "")(descr ""))
+  (lib (name SOIC8-EEPROM-MOD)(type KiCad)(uri ${KIPRJMOD}/kicad-library/mine/SOIC8-EEPROM-MOD.pretty)(options "")(descr ""))
+)
