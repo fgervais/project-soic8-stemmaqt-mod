@@ -143,4 +143,6 @@ Wire Wire Line
 	4750 1250 4550 1250
 Text Label 4750 1250 2    50   ~ 0
 SDA
+Text Notes 650  2500 0    50   ~ 0
+NOTE:\nThis was designed around the reversed cable A04SR04SR30K305B where all pins are reversed.\nThis won't work with a STEMMA QT straight cable.\n\nThe STEMMA QT straight cable is the equivalent of A04SR04SR30K305A.
 $EndSCHEMATC
