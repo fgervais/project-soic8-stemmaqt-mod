@@ -521,7 +521,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/project-soic8-stemmaqt-mod/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
